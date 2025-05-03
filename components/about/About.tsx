@@ -82,9 +82,9 @@ Let’s connect and build something amazing!`}
 
                             <div className="flex flex-col sm:flex-row justify-between items-center mt-12 text-center max-w-5xl mx-auto border-t border-gray-700 pt-8">
                                 {[
-                                    { label: "Years of Experience", value: "8+" },
-                                    { label: "Completed Projects", value: "1k+" },
-                                    { label: "Client Satisfactions", value: "90%+" }
+                                    { label: "Months of Experience", value: "5" },
+                                    { label: "Completed Projects", value: "4" },
+                                    { label: "Client Satisfactions", value: "90%" }
                                 ].map((stat, index) => (
                                     <motion.div
                                         key={index}
